@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.hackerrank.com/challenges/revising-the-select-query/problem
-- Synced: 2026-10-31T19:11:13.798Z
+- Synced: 2026-10-31T19:15:50.375Z
 
 ## Problem Description
 
