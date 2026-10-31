@@ -4,10 +4,10 @@
  * URL: https://www.hackerrank.com/challenges/select-all-sql/problem
  * Language: DB2
  * Difficulty: Unknown
- * Topics: Uncategorized
+ * Topics: 38%
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-31T19:15:24.381Z
+ * Synced: 2026-10-31T19:18:02.839Z
  */
 
 /*
