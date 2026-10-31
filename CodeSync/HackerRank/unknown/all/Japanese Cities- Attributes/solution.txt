@@ -4,10 +4,10 @@
  * URL: https://www.hackerrank.com/challenges/japanese-cities-attributes/problem
  * Language: DB2
  * Difficulty: Unknown
- * Topics: Uncategorized
+ * Topics: 63%
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-10-31T19:37:05.211Z
+ * Synced: 2026-10-31T19:37:53.460Z
  */
 
 /*
