@@ -3,11 +3,11 @@
 - Platform: HackerRank
 - Language: DB2
 - Difficulty: Unknown
-- Topics: Uncategorized
+- Topics: 5%
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
-- Synced: 2026-11-01T12:26:47.605Z
+- Synced: 2026-11-01T12:30:21.288Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Query a list of CITY names from STATION for cities that have an even ID number. 
 
 ## Explanation
 
-This solution was accepted on HackerRank using DB2. Review the synced source file for the implementation details.
+This solution was accepted on HackerRank using DB2. The detected topics are 5%. Review the synced source file for the implementation details.
