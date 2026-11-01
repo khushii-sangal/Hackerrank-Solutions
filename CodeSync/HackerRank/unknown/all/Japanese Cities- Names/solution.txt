@@ -4,10 +4,10 @@
  * URL: https://www.hackerrank.com/challenges/japanese-cities-name/problem
  * Language: DB2
  * Difficulty: Unknown
- * Topics: Uncategorized
+ * Topics: 75%
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-01T11:55:10.722Z
+ * Synced: 2026-11-01T11:56:28.776Z
  */
 
 /*
