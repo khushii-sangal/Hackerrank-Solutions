@@ -1,0 +1,25 @@
+/*
+ * Platform: HackerRank
+ * Problem: Weather Observation Station 3
+ * URL: https://www.hackerrank.com/challenges/weather-observation-station-3/problem
+ * Language: DB2
+ * Difficulty: Unknown
+ * Topics: 5%
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-01T12:30:21.288Z
+ */
+
+/*
+    Enter your query here and follow these instructions:
+    1. Please append a semicolon ";" at the end of the query and enter your query 
+    in a single line to avoid error.
+    2. The AS keyword causes errors, so follow this convention: "Select t.Field 
+    From table1 t" instead of "select t.Field From table1 AS t"
+    3. Type your code immediately after comment. Don't leave any blank line.
+*/
+
+
+SELECT DISTINCT CITY 
+FROM STATION 
+WHERE MOD(ID,2) = 0;
