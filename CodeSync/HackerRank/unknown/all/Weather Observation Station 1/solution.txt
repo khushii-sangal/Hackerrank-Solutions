@@ -4,10 +4,10 @@
  * URL: https://www.hackerrank.com/challenges/weather-observation-station-1/problem
  * Language: DB2
  * Difficulty: Unknown
- * Topics: Uncategorized
+ * Topics: 94%
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-01T11:58:15.038Z
+ * Synced: 2026-11-01T11:59:13.466Z
  */
 
 /*
