@@ -3,11 +3,11 @@
 - Platform: HackerRank
 - Language: DB2
 - Difficulty: Unknown
-- Topics: Uncategorized
+- Topics: 16%
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.hackerrank.com/challenges/weather-observation-station-4/problem
-- Synced: 2026-11-01T12:34:56.178Z
+- Synced: 2026-11-01T12:37:42.135Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Find the difference between the total number of CITY entries in the table and th
 
 ## Explanation
 
-This solution was accepted on HackerRank using DB2. Review the synced source file for the implementation details.
+This solution was accepted on HackerRank using DB2. The detected topics are 16%. Review the synced source file for the implementation details.
