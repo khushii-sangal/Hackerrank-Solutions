@@ -3,11 +3,11 @@
 - Platform: HackerRank
 - Language: DB2
 - Difficulty: Unknown
-- Topics: Uncategorized
+- Topics: 75%
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.hackerrank.com/challenges/japanese-cities-name/problem
-- Synced: 2026-11-01T11:55:10.722Z
+- Synced: 2026-11-01T11:56:28.776Z
 
 ## Problem Description
 
@@ -15,4 +15,4 @@ Query the names of all the Japanese cities in the CITY table. The COUNTRYCODE fo
 
 ## Explanation
 
-This solution was accepted on HackerRank using DB2. Review the synced source file for the implementation details.
+This solution was accepted on HackerRank using DB2. The detected topics are 75%. Review the synced source file for the implementation details.
