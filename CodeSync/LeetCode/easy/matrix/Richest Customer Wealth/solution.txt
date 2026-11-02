@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:31:42.672Z
+ * Synced: 2026-11-02T17:31:45.950Z
  */
 
 class Solution {
@@ -21,5 +21,5 @@ public:
                 sum+=accounts[i][j];
             }
     }
-            ma
+            m
 };
