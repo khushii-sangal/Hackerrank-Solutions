@@ -1,7 +1,7 @@
 {
-  "submissionTimestamp": "2026-11-02T17:26:14.328Z",
+  "submissionTimestamp": "2026-11-02T17:27:06.340Z",
   "runtime": "0 ms",
-  "memoryUsage": "N/A",
+  "memoryUsage": "12.42 MB",
   "difficulty": "Easy",
   "tags": [
     "Array",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Running Sum of 1d Array",
-  "problemUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+  "problemUrl": "https://leetcode.com/problems/running-sum-of-1d-array/submissions/2187969382/",
   "submissionId": "cxw0x4"
 }
