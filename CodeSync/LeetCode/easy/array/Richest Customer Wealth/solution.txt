@@ -7,12 +7,12 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:29:55.424Z
+ * Synced: 2026-11-02T17:29:56.234Z
  */
 
 class Solution {
 public:
     int maximumWealth(vector<vector<int>>& accounts) {
-        for(in)
+        for(int i)
     }
 };
