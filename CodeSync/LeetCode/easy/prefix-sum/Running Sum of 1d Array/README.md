@@ -7,7 +7,7 @@
 - Runtime: 0 ms
 - Memory: 12.42 MB
 - Problem URL: https://leetcode.com/problems/running-sum-of-1d-array/submissions/2187969382/
-- Synced: 2026-11-02T17:27:06.340Z
+- Synced: 2026-11-02T17:27:51.394Z
 
 ## Problem Description
 
