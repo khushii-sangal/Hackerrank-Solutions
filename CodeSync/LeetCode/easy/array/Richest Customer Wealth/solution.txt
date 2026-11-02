@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:32:08.394Z
+ * Synced: 2026-11-02T17:32:09.194Z
  */
 
 class Solution {
@@ -22,5 +22,5 @@ public:
             }
     }
             wealth=max(sum,wealth);
-        return wealth
+        return wealth;
 };
