@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:31:33.580Z
+ * Synced: 2026-11-02T17:31:35.089Z
  */
 
 class Solution {
@@ -18,7 +18,7 @@ public:
             for(int j=0;i<accounts[i].size();j++)
             {
         }
-                sum+=accounts[i][j]
+                sum+=accounts[i][j];
             }
     }
 };
