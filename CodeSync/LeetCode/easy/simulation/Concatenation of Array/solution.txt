@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:46:25.109Z
+ * Synced: 2026-11-02T17:46:25.594Z
  */
 
 class Solution {
@@ -20,7 +20,7 @@ public:
             ans[i]=nums[i];
         }
     }
-            if(i<s)
+            if(i<siz)
             else
             ans[i]=nums[j];
             {
