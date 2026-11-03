@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-11-02T17:51:39.752Z",
+  "submissionTimestamp": "2026-11-02T17:51:41.612Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Easy",
@@ -10,6 +10,6 @@
   "platform": "LeetCode",
   "language": "Problem List",
   "problemTitle": "Find Numbers with Even Number of Digits",
-  "problemUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/",
-  "submissionId": "5cbc4"
+  "problemUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+  "submissionId": "olq0tw"
 }
