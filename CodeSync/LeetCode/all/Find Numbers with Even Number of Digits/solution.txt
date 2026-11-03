@@ -7,7 +7,7 @@
  * Topics: Array, Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:50:53.813Z
+ * Synced: 2026-11-02T17:51:39.752Z
  */
 
 Input: nums = [12,345,2,6,7896]
