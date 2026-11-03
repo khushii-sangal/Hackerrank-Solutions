@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:32:20.632Z
+ * Synced: 2026-11-02T17:32:21.238Z
  */
 
 class Solution {
@@ -23,5 +23,5 @@ public:
     }
             wealth=max(sum,wealth);
         return wealth;
-        int sum=0,weal
+        int sum=0,wealth
 };
