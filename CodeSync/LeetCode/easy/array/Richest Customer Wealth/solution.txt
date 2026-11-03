@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:35:14.462Z
+ * Synced: 2026-11-02T17:35:15.229Z
  */
 
 class Solution {
@@ -24,5 +24,5 @@ public:
         }
         return wealth;
     }
-            sum
+            sum=0
 };
