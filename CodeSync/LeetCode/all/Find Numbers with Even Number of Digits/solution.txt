@@ -7,7 +7,7 @@
  * Topics: Array, Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:51:47.353Z
+ * Synced: 2026-11-02T17:51:47.884Z
  */
 
 class Solution {
@@ -15,5 +15,5 @@ public:
     int findNumbers(vector<int>& nums) {
         
     }
-        f
+        for
 };
