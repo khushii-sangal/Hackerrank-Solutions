@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:46:44.688Z
+ * Synced: 2026-11-02T17:46:45.137Z
  */
 
 class Solution {
@@ -27,5 +27,5 @@ public:
             }
             j++;
         int j=0;
-        ve
+        vec
 };
