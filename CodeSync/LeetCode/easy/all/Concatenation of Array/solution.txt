@@ -1,0 +1,18 @@
+/*
+ * Platform: LeetCode
+ * Problem: Concatenation of Array
+ * URL: https://leetcode.com/problems/concatenation-of-array/
+ * Language: Problem List
+ * Difficulty: Easy
+ * Topics: Array, Simulation
+ * Runtime: N/A
+ * Memory: N/A
+ * Synced: 2026-11-02T17:37:19.131Z
+ */
+
+class Solution {
+public:
+    vector<int> getConcatenation(vector<int>& nums) {
+        
+    }
+};
