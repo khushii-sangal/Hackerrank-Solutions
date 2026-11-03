@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:44:09.983Z
+ * Synced: 2026-11-02T17:44:11.791Z
  */
 
 class Solution {
@@ -22,5 +22,5 @@ public:
     }
             if(i<n)
             else
-            ans[i]=nums[j]
+            ans[i]=nums[j];
 };
