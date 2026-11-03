@@ -1,21 +1,18 @@
 /*
  * Platform: LeetCode
  * Problem: Find Numbers with Even Number of Digits
- * URL: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
+ * URL: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Math
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:51:39.752Z
+ * Synced: 2026-11-02T17:51:41.612Z
  */
 
-Input: nums = [12,345,2,6,7896]
-Output: 2
-Explanation: 
-12 contains 2 digits (even number of digits). 
-345 contains 3 digits (odd number of digits). 
-2 contains 1 digit (odd number of digits). 
-6 contains 1 digit (odd number of digits). 
-7896 contains 4 digits (even number of digits). 
-Therefore only 12 and 7896 contain an even number of digits.
+class Solution {
+public:
+    int findNumbers(vector<int>& nums) {
+        
+    }
+};
