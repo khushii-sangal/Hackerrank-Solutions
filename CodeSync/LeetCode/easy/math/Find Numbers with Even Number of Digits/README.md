@@ -6,8 +6,8 @@
 - Topics: Array, Math
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/
-- Synced: 2026-11-02T17:51:39.752Z
+- Problem URL: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+- Synced: 2026-11-02T17:51:41.612Z
 
 ## Problem Description
 
