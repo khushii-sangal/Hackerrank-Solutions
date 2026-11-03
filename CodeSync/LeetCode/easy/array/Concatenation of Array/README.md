@@ -6,8 +6,8 @@
 - Topics: Array, Simulation
 - Runtime: N/A
 - Memory: N/A
-- Problem URL: https://leetcode.com/problems/concatenation-of-array/
-- Synced: 2026-11-02T17:37:19.131Z
+- Problem URL: https://leetcode.com/problems/concatenation-of-array/description/
+- Synced: 2026-11-02T17:38:08.060Z
 
 ## Problem Description
 
