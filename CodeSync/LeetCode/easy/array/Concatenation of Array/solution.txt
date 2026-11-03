@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:46:04.265Z
+ * Synced: 2026-11-02T17:46:07.226Z
  */
 
 class Solution {
@@ -15,7 +15,7 @@ public:
     vector<int> getConcatenation(vector<int>& nums) {
         int size=nums.size();
 
-        for(int i=0;i<2*nums-1;i++)
+        for(int i=0;i<2*nu-1;i++)
         {
             ans[i]=nums[i];
         }
