@@ -7,7 +7,7 @@
  * Topics: Array, Matrix
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:34:08.910Z
+ * Synced: 2026-11-02T17:34:11.116Z
  */
 
 class Solution {
@@ -18,7 +18,7 @@ public:
         {
             for(int j=0;j<accounts[i].size();j++)
             {
-                sum+=accounts[][j];
+                sum+=accounts[]i[j];
             }
             wealth=max(sum,wealth);
         }
