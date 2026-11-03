@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:40:01.050Z
+ * Synced: 2026-11-02T17:40:51.082Z
  */
 
 class Solution {
