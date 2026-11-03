@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Array, Matrix
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/richest-customer-wealth/
-- Synced: 2026-11-02T17:35:21.706Z
+- Memory: 11.04 MB
+- Problem URL: https://leetcode.com/problems/richest-customer-wealth/submissions/2187978169/
+- Synced: 2026-11-02T17:36:18.927Z
 
 ## Problem Description
 
