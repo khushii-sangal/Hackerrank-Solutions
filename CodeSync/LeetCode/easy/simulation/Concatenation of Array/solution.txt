@@ -1,13 +1,13 @@
 /*
  * Platform: LeetCode
  * Problem: Concatenation of Array
- * URL: https://leetcode.com/problems/concatenation-of-array/
+ * URL: https://leetcode.com/problems/concatenation-of-array/submissions/2187990401/
  * Language: Problem List
  * Difficulty: Easy
  * Topics: Array, Simulation
  * Runtime: 0 ms
- * Memory: N/A
- * Synced: 2026-11-02T17:48:05.372Z
+ * Memory: 16.58 MB
+ * Synced: 2026-11-02T17:49:03.687Z
  */
 
 [1,2,1]
