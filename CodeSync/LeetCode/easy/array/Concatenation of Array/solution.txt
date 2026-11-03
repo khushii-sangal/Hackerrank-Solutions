@@ -7,12 +7,13 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:39:56.700Z
+ * Synced: 2026-11-02T17:40:01.050Z
  */
 
 class Solution {
 public:
     vector<int> getConcatenation(vector<int>& nums) {
-        size=nums.size()
+        size=nums.size();
     }
+        
 };
