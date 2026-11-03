@@ -4,10 +4,10 @@
 - Language: Problem List
 - Difficulty: Easy
 - Topics: Array, Matrix
-- Runtime: N/A
+- Runtime: 0 ms
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/richest-customer-wealth/
-- Synced: 2026-11-02T17:35:16.936Z
+- Synced: 2026-11-02T17:35:21.706Z
 
 ## Problem Description
 
