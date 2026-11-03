@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/concatenation-of-array/
-- Synced: 2026-11-02T17:39:55.099Z
+- Synced: 2026-11-02T17:39:55.644Z
 
 ## Problem Description
 
