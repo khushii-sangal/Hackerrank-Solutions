@@ -5,9 +5,9 @@
 - Difficulty: Easy
 - Topics: Array, Simulation
 - Runtime: 0 ms
-- Memory: N/A
-- Problem URL: https://leetcode.com/problems/concatenation-of-array/
-- Synced: 2026-11-02T17:48:05.372Z
+- Memory: 16.58 MB
+- Problem URL: https://leetcode.com/problems/concatenation-of-array/submissions/2187990401/
+- Synced: 2026-11-02T17:49:03.687Z
 
 ## Problem Description
 
