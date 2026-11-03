@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://leetcode.com/problems/richest-customer-wealth/
-- Synced: 2026-11-02T17:34:08.910Z
+- Synced: 2026-11-02T17:34:11.116Z
 
 ## Problem Description
 
