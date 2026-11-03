@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:41:13.238Z
+ * Synced: 2026-11-02T17:41:14.039Z
  */
 
 class Solution {
@@ -16,5 +16,5 @@ public:
         size=nums.size();
     }
 
-        for(int )
+        for(int i=0)
 };
