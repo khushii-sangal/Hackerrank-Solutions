@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:47:09.364Z
+ * Synced: 2026-11-02T17:47:15.776Z
  */
 
 class Solution {
@@ -28,4 +28,5 @@ public:
             j++;
         int j=0;
         vector<int>ans(2*size);
+        
 };
