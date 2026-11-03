@@ -7,7 +7,7 @@
  * Topics: Array, Simulation
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-11-02T17:45:49.452Z
+ * Synced: 2026-11-02T17:45:59.341Z
  */
 
 class Solution {
@@ -26,5 +26,5 @@ public:
             {
             }
             j++;
-        ont j=0;
+        nt j=0;
 };
